@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+.botaoMostrar{
+    border-radius: 50px;
+    color: rgb(250, 250, 250);
+    background-color: blue;
+}
