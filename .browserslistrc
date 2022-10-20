@@ -8,6 +8,11 @@
 # You can see what browsers were selected by your queries by running:
 #   npx browserslist
 
+#comandos para iniciar npm i --location=global @angular/cli
+#criar o projeto ng new "nome do projeto"
+#iniciar ng generate componet "nome do componente"
+#instalar router npm i @angular/router
+#inicializar ng serve --open 
 last 1 Chrome version
 last 1 Firefox version
 last 2 Edge major versions
