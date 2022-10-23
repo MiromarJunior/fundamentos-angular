@@ -15,6 +15,7 @@
 #inicializar ng serve --open 
 #criar um guadian :  ng g guard "nome do guard"
 #criar um servico :  ng g service "nome do service"
+# gerar modulo leazy loading : ng g module "nome no modulo" --route "nome da rota" --module app.module
 
 #para usar o ngModel deve importar o    FormsModule
 last 1 Chrome version
